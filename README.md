@@ -2,6 +2,7 @@
 * [General info](#general-info) 
 * [Sources](#sources)
 * [Download](#download)
+## General info
 ![alt text](https://i.imgur.com/Zn8BVAi.png) \
 Game 'Poker dice' developed by Adam Franz (Hansik) \
 Written in C++ with SFML 2.5.1 library (https://www.sfml-dev.org) \
