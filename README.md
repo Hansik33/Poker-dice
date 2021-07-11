@@ -22,4 +22,4 @@ Throw it, compare scores, throw chosen dices and win!
 
 ## Download
 
-https://drive.google.com/file/d/1jq_VEfpj2llKvgS9-_z3c9jwKB_fZdyA/view?usp=sharing
+- https://drive.google.com/file/d/1jq_VEfpj2llKvgS9-_z3c9jwKB_fZdyA/view?usp=sharing
